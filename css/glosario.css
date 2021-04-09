@@ -1,0 +1,106 @@
+.Titulo{
+    color: black;
+    text-align: center;
+    font-family:fantasy;
+    font-size: 30px;
+}
+.titulo_tabla{
+    text-align: center;
+    font-family: fantasy;
+    background: blue;
+}
+.parrafo{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+}
+.section_texto{
+    text-align: center;
+    font-size: 20px;
+   
+}
+.subtitulo{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    background: green;
+    
+}
+.tabla{
+    text-align: center;
+    font-size: 30px;
+}
+.
+.h2{
+    font-size: 30px;
+    color: red;
+    font-family: fantasy;
+}
+.p{
+    font-size:20px;
+    font-family: cursive;
+    text-align: left;
+}
+
+.listado_2{
+    font-family: fantasy;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    background: red;
+}
+.listado_img{
+    text-align: left;
+    font-size: 20px; 
+    font-family: cursive;
+    background: red;
+}   
+
+.sub_lista1{
+    text-align: left;
+    font-family: cursive;
+    font-size: 20px;
+    background: green;
+} 
+
+.sub_texto{
+    font-family: cursive;
+    
+} 
+.titulo_css{
+    font-family: fantasy;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    background: purple;
+}
+.listado_textocss{
+ text-align: left;
+    font-size: 20px; 
+    font-family: cursive;
+    background: purple;
+}
+.titulo_obj{
+     font-family: fantasy;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    background: yellow;
+}
+.listado_obj{
+    text-align: left;
+    font-size: 20px; 
+    font-family: cursive;
+    background: yellow;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+
